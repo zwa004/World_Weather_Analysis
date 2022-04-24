@@ -1,4 +1,4 @@
-City,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Current Descritption,Date
+Index,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Current Description,Date
 0,Guerrero Negro,27.9769,-114.0611,51.03,41,0,2.46,MX,clear sky,2022-02-04 14:30:49
 1,Albany,42.6001,-73.9662,28.27,86,100,3.0,US,light snow,2022-02-04 14:35:04
 2,Carnot,4.9409,15.8665,94.73,12,100,5.91,CF,overcast clouds,2022-02-04 14:35:25
